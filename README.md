@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there,
 
-<!--
-**izaz4141/izaz4141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm just an engineer who likes to build sometimes.
 
-Here are some ideas to get you started:
+### Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+---
+
+### Support My Work
+
+If you find my projects helpful, consider supporting my journey! Your support helps me dedicate more time to maintaining and creating new tools.
+
+[![Support me on Ko-fi](https://img.shields.io/badge/Support%20me%20on%20Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/glicole)
+
+---
+
+### 📈 My Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=izaz4141&show_icons=true&theme=transparent)
