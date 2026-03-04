@@ -19,4 +19,4 @@ If you find my projects helpful, consider supporting my journey! Your support he
 ---
 
 ### 📈 My Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=izaz4141&show_icons=true&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=izaz4141&show_icons=true&theme=transparent)
