@@ -18,5 +18,12 @@ If you find my projects helpful, consider supporting my journey! Your support he
 
 ---
 
-### 📈 My Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=izaz4141&show_icons=true&theme=transparent)
+### Activity
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=izaz4141&theme=radical" alt="Streak" />
+</p>
+
+<p align="left">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=izaz4141&theme=radical" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=izaz4141&theme=radical" alt="Overall Stats" />
+</p>
