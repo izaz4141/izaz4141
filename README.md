@@ -12,18 +12,19 @@ I'm just an engineer who likes to build sometimes.
 
 ### Support My Work
 
-If you find my projects helpful, consider supporting my journey! Your support helps me dedicate more time to maintaining and creating new tools.
+If you find my projects helpful, consider supporting me! Your support helps me dedicate more time to maintaining and creating new tools.
 
 [![Support me on Ko-fi](https://img.shields.io/badge/Support%20me%20on%20Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/glicole)
 
 ---
 
 ### Activity
-<p align="left">
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=izaz4141&theme=radical" alt="Streak" />
 </p>
 
-<p align="left">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=izaz4141&theme=radical" alt="Top Languages" />
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=izaz4141&theme=radical" alt="Top Languages by Commit" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=izaz4141&theme=radical" alt="Top Languages by Repos" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=izaz4141&theme=radical" alt="Overall Stats" />
 </p>
